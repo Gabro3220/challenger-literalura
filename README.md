@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    📖 Literalura 📖
+     Literalura 📙
   </h1>
   <p>
     Challenge - Oracle ONE
@@ -11,3 +11,8 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## 🔎 Descrição
+O desafio LiterAlura propõe a construção de um catálogo de livros usando Java, Spring, Postgres e a API Gutendex, que fornece informações de mais de 70 mil livros.
+
+## Prints do Funcionamento do Código
