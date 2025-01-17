@@ -15,4 +15,8 @@
 ## 🔎 Descrição
 O desafio LiterAlura propõe a construção de um catálogo de livros usando Java, Spring, Postgres e a API Gutendex, que fornece informações de mais de 70 mil livros.
 
-## Prints do Funcionamento do Código
+## 📷 Prints do Funcionamento do Código
+
+![Image](https://github.com/user-attachments/assets/7c37bc13-c978-49ef-89ee-84552c1c00c4)
+
+![Image](https://github.com/user-attachments/assets/b9e319f7-0191-4373-8f52-b72430971aff)
